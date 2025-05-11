@@ -1,0 +1,13 @@
+name: Generate Terraform Documentation
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  terraform-docs:
+    uses: cloudbuildlab/actions-terraform-docs-generator/.github/workflows/terraform-docs.yml@v0
