@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   commitmsg-conform:
-    uses: cloudbuildlab/actions-commitmsg-conform/.github/workflows/commitmsg-conform.yml@v0
+    uses: actionsforge/actions/.github/workflows/commitmsg-conform.yml
