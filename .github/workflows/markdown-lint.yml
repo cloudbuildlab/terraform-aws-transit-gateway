@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   markdown-lint:
-    uses: cloudbuildlab/actions-markdown-lint/.github/workflows/markdown-lint.yml@v0
+    uses: actionsforge/actions/.github/workflows/markdown-lint.yml@main
