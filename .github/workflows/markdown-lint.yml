@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   markdown-lint:
-    uses: actionsforge/actions/.github/workflows/markdown-lint.yml
+    uses: actionsforge/actions/.github/workflows/markdown-lint.yml@main
