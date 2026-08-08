@@ -10,4 +10,4 @@ permissions:
 
 jobs:
   terraform-docs:
-    uses: cloudbuildlab/actions-terraform-docs-generator/.github/workflows/terraform-docs.yml@v0.1.9
+    uses: cloudbuildlab/actions-terraform-docs-generator/.github/workflows/terraform-docs.yml@v0.1.10
